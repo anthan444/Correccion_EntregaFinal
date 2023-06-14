@@ -1,0 +1,145 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.underline{
+    border-bottom: solid;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    margin: 2px;
+    padding: 10px;
+    background-color: black;
+}
+.header h1 a{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+.header a:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: inset;}
+.header ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+} */
+/* .main_1{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.main_1 h2, h3, h4{
+    font-family: 'Nanum Myeongjo', serif;
+}  */
+/* .main_1 p{
+    font-family: 'Merriweather Sans', sans-serif;
+} */
+/* .main_1 .about img{
+    width: 70%;
+    border-radius: 10px;
+}
+.art{
+    padding: 5px;
+}
+.art .grey{
+    color: red;
+} */
+/* .footer{
+    border-top:solid;
+}
+.footer ul{
+    list-style-type: none;
+} */
+/* Información de contacto */
+/* .contact{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width:auto;
+    height: 500px;
+    margin: 10px;
+    padding: 5px;
+}  */
+/* .contact_form{
+    background-color: gainsboro;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.contact_form:hover{
+    background-color: black;
+    color: white;
+} */
+/* .contact_mailandcomment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.contact_mailandcomment input{
+    margin: 5px;
+} */
+/* diseño del main de la página suscribe */
+/* .suscribe{
+    margin: 1rem;
+    padding: 1/2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.suscribe ul{
+    list-style-type: none;
+}
+.suscribe li:hover{
+    background-color: black;
+    color: white;
+} */
+/* .suscribe_form{
+    
+    padding: 1rem;
+    border-radius: 10px;
+}
+.suscribe_form:hover{
+    background-color: black;
+    color: white;
+} */
+/* shopping style */
+/* .shopping{
+    margin: 1rem;
+    padding: 1/2rem;
+}
+.shopping h2, h3, h4, h5{
+    font-family: 'Nanum Myeongjo', serif;
+} 
+.shopping p{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.shopping .merch, .prints{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.shopping .card{
+    margin: 1rem;
+} */

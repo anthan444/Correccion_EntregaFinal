@@ -1,0 +1,20 @@
+.shopping{
+    margin: 1rem;
+    padding: 1/2rem;
+
+    & h2, h3, h4, h5{
+    font-family: 'Nanum Myeongjo', serif;
+    } 
+    & p{
+    font-family: 'Merriweather Sans', sans-serif;
+    }
+    & .merch, .prints{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    }
+    & .card{
+    margin: 1rem;
+    }
+}

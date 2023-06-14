@@ -1,0 +1,25 @@
+.main_1{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    & h2, h3, h4{
+        font-family: 'Nanum Myeongjo', serif;
+    } 
+    & p{
+        font-family: 'Merriweather Sans', sans-serif;
+    }
+    & .about img{
+        width: 70%;
+        border-radius: 10px;
+    }
+}
+.art{
+    padding: 5px;
+    & .grey{
+        color: red;
+    }
+}
